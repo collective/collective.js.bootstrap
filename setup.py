@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 import os
 
-version = '1.0'
+version = '2.3.1'
 
 setup(name='collective.js.bootstrap',
       version=version,
