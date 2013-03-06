@@ -17,6 +17,25 @@ Resources::
   ++resource++collective.js.bootstrap/img/glyphicons-halflings.png
   ++resource++collective.js.bootstrap/img/glyphicons-halflings-white.png
 
+About Twitter Bootstrap
+=======================
+
+Sleek, intuitive, and powerful front-end framework for faster and 
+easier web development.
+
+By nerds, for nerds: Built Twitter by @mdo and @fat, Bootstrap utilizes LESS CSS,
+is compiled via Node, and is managed through GitHub to help nerds do awesome
+stuff on the web.
+Made for everyone.
+
+Made for everyone: Bootstrap was made to not only look and behave great in the latest desktop
+browsers (as well as IE7!), but in tablet and smartphone browsers via
+responsive CSS as well.
+
+Packed with features: A 12-column responsive grid, dozens of components,
+JavaScript plugins, typography, form controls, and even a web-based Customizer
+to make Bootstrap your own.
+
 How to install
 ==============
 
