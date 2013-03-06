@@ -1,0 +1,15 @@
+<configure
+    xmlns="http://namespaces.zope.org/zope"
+    xmlns:browser="http://namespaces.zope.org/browser"
+    xmlns:genericsetup="http://namespaces.zope.org/genericsetup"
+    i18n_domain="collective.js.bootstrap">
+
+  <browser:page
+    name="example.collective.js.bootstrap"
+    for="*"
+    class=".bootstrap.Example"
+    template="bootstrap.pt"
+    permission="zope2.View"
+    />
+
+</configure>

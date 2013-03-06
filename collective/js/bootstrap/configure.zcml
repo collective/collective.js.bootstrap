@@ -1,0 +1,22 @@
+<configure
+    xmlns="http://namespaces.zope.org/zope"
+    xmlns:browser="http://namespaces.zope.org/browser"
+    xmlns:genericsetup="http://namespaces.zope.org/genericsetup"
+    i18n_domain="collective.js.bootstrap">
+
+  <browser:resourceDirectory
+    name="collective.js.bootstrap"
+    directory="resources"
+    />
+
+  <include file="upgrades.zcml"/>
+
+  <genericsetup:registerProfile
+      name="default"
+      title="collective.js.bootstrap"
+      directory="profiles/default"
+      description='Extension profile for collective.js.bootstrap.'
+      provides="Products.GenericSetup.interfaces.EXTENSION"
+      />
+
+</configure>
