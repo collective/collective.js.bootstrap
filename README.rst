@@ -3,7 +3,7 @@ Introduction
 
 This addon provide twitter's bootstrap as browser resource.
 
-Version: 2.3.1
+Version: 3.0.0-wip
 
 Resources::
 
@@ -14,8 +14,11 @@ Resources::
   ++resource++collective.js.bootstrap/css/bootstrap.min.css
   ++resource++collective.js.bootstrap/css/bootstrap-responsive.css
   ++resource++collective.js.bootstrap/css/bootstrap-responsive.min.css
-  ++resource++collective.js.bootstrap/img/glyphicons-halflings.png
-  ++resource++collective.js.bootstrap/img/glyphicons-halflings-white.png
+  ++resource++collective.js.bootstrap/fonts/glyphiconshalflings-regular.eot
+  ++resource++collective.js.bootstrap/fonts/glyphiconshalflings-regular.otf
+  ++resource++collective.js.bootstrap/fonts/glyphiconshalflings-regular.svg
+  ++resource++collective.js.bootstrap/fonts/glyphiconshalflings-regular.ttf
+  ++resource++collective.js.bootstrap/fonts/glyphiconshalflings-regular.woff
 
 About Twitter Bootstrap
 =======================
