@@ -9,14 +9,4 @@
     directory="resources"
     />
 
-  <include file="upgrades.zcml"/>
-
-  <genericsetup:registerProfile
-      name="default"
-      title="collective.js.bootstrap"
-      directory="profiles/default"
-      description='Extension profile for collective.js.bootstrap.'
-      provides="Products.GenericSetup.interfaces.EXTENSION"
-      />
-
 </configure>

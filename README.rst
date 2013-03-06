@@ -1,13 +1,26 @@
 Introduction
 ============
 
+This addon provide twitter's bootstrap as browser resource.
 
+Version: 2.3.1
+
+Resources::
+
+  ++resource++collective.js.bootstrap/
+  ++resource++collective.js.bootstrap/js/bootstrap.js
+  ++resource++collective.js.bootstrap/js/bootstrap.min.js
+  ++resource++collective.js.bootstrap/css/bootstrap.css
+  ++resource++collective.js.bootstrap/css/bootstrap.min.css
+  ++resource++collective.js.bootstrap/css/bootstrap-responsive.css
+  ++resource++collective.js.bootstrap/css/bootstrap-responsive.min.css
+  ++resource++collective.js.bootstrap/img/glyphicons-halflings.png
+  ++resource++collective.js.bootstrap/img/glyphicons-halflings-white.png
 
 How to install
 ==============
 
-This addon can be installed has any other addons. please follow official
-documentation_
+This addon just need to be present in the zope instance. No profile to apply.
 
 Credits
 =======

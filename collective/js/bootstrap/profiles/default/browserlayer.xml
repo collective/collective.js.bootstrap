@@ -1,6 +1,0 @@
-<layers>
-<!-- uncomment to activate
-    <layer name="collective.js.bootstrap"
-           interface="collective.js.bootstrap.interfaces.ILayer" />
--->
-</layers>
