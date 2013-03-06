@@ -1,13 +1,13 @@
 from setuptools import setup, find_packages
 import os
 
-version = '2.3.2.dev0'
+version = '2.3.1.1'
 
 setup(name='collective.js.bootstrap',
       version=version,
       description="Get twitter bootstrap as browser resources",
       long_description=open("README.rst").read() + "\n" +
-                       open(os.path.join("docs", "HISTORY.txt")).read(),
+                       open("CHANGES.txt").read(),
       # Get more strings from
       # http://pypi.python.org/pypi?:action=list_classifiers
       classifiers=[
