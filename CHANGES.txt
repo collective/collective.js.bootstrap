@@ -4,7 +4,7 @@ Changelog
 2.3.1.2 (unreleased)
 --------------------
 
-- Nothing changed yet.
+- Added Twitter Bootstrap 2.3.1 to match the version name [erral]
 
 
 2.3.1.1 (2013-03-06)
