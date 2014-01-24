@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 import os
 
-version = '2.3.2'
+version = '3.0.0.dev0'
 
 setup(name='collective.js.bootstrap',
       version=version,
@@ -35,7 +35,7 @@ setup(name='collective.js.bootstrap',
       zip_safe=False,
       install_requires=[
           'setuptools',
-          'plone.app.jquery>=1.7.2',
+          'plone.app.jquery>=1.8.3',
           # -*- Extra requirements: -*-
       ],
       entry_points="""
