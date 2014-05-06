@@ -1,10 +1,25 @@
 Changelog
 =========
 
+3.0.3 (unreleased)
+------------------
+
+- Update to Bootstrap 3.0.3 version.
+  [erral]
+
+
+2.3.2 (unreleased)
+------------------
+
+- Added Twitter Bootstrap 2.3.2 to match the version name.
+  [erral]
+
+
 2.3.1.2 (unreleased)
 --------------------
 
-- Added Twitter Bootstrap 2.3.1 to match the version name [erral]
+- Added Twitter Bootstrap 2.3.1 to match the version name.
+  [erral]
 
 
 2.3.1.1 (2013-03-06)
