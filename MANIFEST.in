@@ -2,3 +2,10 @@ include docs/*.txt
 recursive-include collective *.css *.js *.pdf *.png *.po *.pot *.pt *.txt *.xml *.zcml *.jpg
 include *
 global-exclude *.pyc *~
+recursive-include collective *.eot
+recursive-include collective *.map
+recursive-include collective *.svg
+recursive-include collective *.ttf
+recursive-include collective *.woff
+recursive-include collective *.woff2
+recursive-include docs *.GPL
