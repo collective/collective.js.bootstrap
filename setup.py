@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-version = '3.3.5'
+version = '3.3.6.dev0'
 
 setup(name='collective.js.bootstrap',
       version=version,
