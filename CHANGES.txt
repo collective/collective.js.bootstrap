@@ -4,7 +4,8 @@ Changelog
 3.3.6 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Update to Boostrap 3.3.6
+  [erral]
 
 
 3.3.5 (2015-11-05)
