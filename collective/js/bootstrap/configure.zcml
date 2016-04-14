@@ -1,12 +1,10 @@
 <configure
     xmlns="http://namespaces.zope.org/zope"
-    xmlns:browser="http://namespaces.zope.org/browser"
-    xmlns:genericsetup="http://namespaces.zope.org/genericsetup"
-    i18n_domain="collective.js.bootstrap">
+    xmlns:browser="http://namespaces.zope.org/browser">
 
   <browser:resourceDirectory
-    name="collective.js.bootstrap"
-    directory="resources"
-    />
+      name="collective.js.bootstrap"
+      directory="resources"
+      />
 
 </configure>
