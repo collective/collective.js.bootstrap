@@ -1,0 +1,4 @@
+--format=compact
+--quiet
+--ignore=adjoining-classes,floats,font-faces,font-sizes,ids,important,qualified-headings,unique-headings
+--exclude-list=collective/js/bootstrap/resources/css/bootstrap.min.css,collective/js/bootstrap/resources/css/bootstrap-responsive.min.css
