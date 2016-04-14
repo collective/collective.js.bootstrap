@@ -1,10 +1,11 @@
 Changelog
 =========
 
-2.3.1.2 (unreleased)
---------------------
+2.3.2 (unreleased)
+------------------
 
-- Added Twitter Bootstrap 2.3.1 to match the version name [erral]
+- Bootstrap was updated to 2.3.2.
+  [erral]
 
 
 2.3.1.1 (2013-03-06)

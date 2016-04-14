@@ -20,7 +20,7 @@ Resources::
 About Twitter Bootstrap
 =======================
 
-Sleek, intuitive, and powerful front-end framework for faster and 
+Sleek, intuitive, and powerful front-end framework for faster and
 easier web development.
 
 By nerds, for nerds: Built Twitter by @mdo and @fat, Bootstrap utilizes LESS CSS,
@@ -40,19 +40,3 @@ How to install
 ==============
 
 This addon just need to be present in the zope instance. No profile to apply.
-
-Credits
-=======
-
-Companies
----------
-
-* `Planet Makina Corpus <http://www.makina-corpus.org>`_
-* `Contact Makina Corpus <mailto:python@makina-corpus.org>`_
-
-People
-------
-
-- JeanMichel FRANCOIS aka toutpt <toutpt@gmail.com>
-
-.. _documentation: http://plone.org/documentation/kb/installing-add-ons-quick-how-to

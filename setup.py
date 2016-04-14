@@ -2,14 +2,17 @@ from setuptools import setup, find_packages
 import os
 
 version = '2.3.2'
+description = 'Get twitter bootstrap as browser resources'
+long_description = (
+    open('README.rst').read() + '\n' +
+    open('CONTRIBUTORS.rst').read() + '\n' +
+    open('CHANGES.rst').read()
+)
 
 setup(name='collective.js.bootstrap',
       version=version,
-      description="Get twitter bootstrap as browser resources",
-      long_description=open("README.rst").read() + "\n" +
-                       open("CHANGES.txt").read(),
-      # Get more strings from
-      # http://pypi.python.org/pypi?:action=list_classifiers
+      description=description,
+      long_description=long_description,
       classifiers=[
         "Environment :: Web Environment",
         "License :: OSI Approved :: GNU General Public License (GPL)",
