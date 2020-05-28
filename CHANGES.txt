@@ -4,7 +4,8 @@ Changelog
 3.3.7 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Update to Bootstrap 3.3.7.
+  [erral]
 
 
 3.3.6 (2015-12-16)
