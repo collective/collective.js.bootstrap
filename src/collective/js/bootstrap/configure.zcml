@@ -1,0 +1,6 @@
+<configure
+    i18n_domain="collective.js.bootstrap">
+
+  <include package=".browser" />
+
+</configure>
